@@ -13,6 +13,8 @@ function App() {
       return;
     } else if (reDoButton.current.contains(event.target)) {
       return;
+    } else {
+      setunDoed([]);
     }
 
     let x = event.pageX;
