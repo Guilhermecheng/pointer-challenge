@@ -1,0 +1,22 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.dot {
+  background-color: red;
+  height: 8px;
+  width: 8px;
+  position: absolute;
+}
+
+.menu {
+  position: fixed;
+  bottom: 4em;
+  right: 4em;
+}
+
+.menu button {
+  margin-left: 10px;
+}
